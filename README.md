@@ -1,6 +1,6 @@
 # Trabalho de Conclusão de Curso (TCC)
 
-Apresentado na Unicarioca em 2022 para conclusão do curso de Bacharel em Ciência da Computação.
+Apresentado no Centro Universitário Carioca - Unicarioca em 2022 para conclusão do curso de Bacharel em Ciência da Computação.
 
 
 # Título
